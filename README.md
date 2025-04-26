@@ -1,14 +1,12 @@
 ## 👋 Olá, bem vindo ao meu perfil do github
 
-🌎 Meu nome é João Henrique, Sergipano, Brasil 🇧🇷 
+🌎 Sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau, apaixonado por tecnologia e inovação. Atualmente, estou me aprofundando na área de desenvolvimento de Inteligência Artificial, com conhecimentos em Python. Sempre em busca de aprender, criar e evoluir. 
 
 ## Sobre mim
 
 💻 Estou cursando Análise e Desenvolvimento de Sistemas na Uninassau 
 
 ✨ Evoluindo constantemente
-
-📈 Buscando conhecimento em MySql
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
