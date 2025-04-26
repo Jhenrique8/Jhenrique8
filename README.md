@@ -2,18 +2,20 @@
 
 🌎 Sou estudante de Análise e Desenvolvimento de Sistemas na Uninassau, apaixonado por tecnologia e inovação. Atualmente, estou me aprofundando na área de desenvolvimento de Inteligência Artificial, com conhecimentos em Python. Sempre em busca de aprender, criar e evoluir. 
 
-## Sobre mim
+## Habilidades
 
 💻 Estou cursando Análise e Desenvolvimento de Sistemas na Uninassau 
 
 ✨ Evoluindo constantemente
 
-## Habilidades
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+🤝 Trabalho em equipe
+
+🚀 Proatividade
+
+📚 Curiosidade para aprender
+
+## Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
 
 ## Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-a0109b251/)
